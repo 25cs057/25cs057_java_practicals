@@ -24,8 +24,8 @@ Each practical is developed independently on its own dedicated Git branch, adher
 | Practical | Topics / Focus Areas | Branch Name | Branch Link | Status |
 | :---: | :--- | :---: | :---: | :---: |
 | **Practical 01** | Java Fundamentals, Enums, Records, Switch Expressions | `lab1` | [View lab1](https://github.com/25cs057/25cs057_java_practicals/tree/lab1) | **Completed** |
-| **Practical 02** | Class Design, Constructors, Encapsulation & Static Members | `lab2` | [View lab2](https://github.com/25cs057/25cs057_java_practicals/tree/lab2) | *In Progress* |
-| **Practical 03** | Object Class Methods (`equals`, `hashCode`, `toString`) & Objects Array | `lab3` | [View lab3](https://github.com/25cs057/25cs057_java_practicals/tree/lab3) | *Upcoming* |
+| **Practical 02** | Class Design, Constructors, Encapsulation & Static Members | `lab2` | [View lab2](https://github.com/25cs057/25cs057_java_practicals/tree/lab2) | **Completed** |
+| **Practical 03** | Object Class Methods (`equals`, `hashCode`, `toString`) & Objects Array | `lab3` | [View lab3](https://github.com/25cs057/25cs057_java_practicals/tree/lab3) | *In Progress* |
 | **Practical 04** | Strings, `StringBuilder`, Regex Pattern Matching & Text Parsing | `lab4` | [View lab4](https://github.com/25cs057/25cs057_java_practicals/tree/lab4) | *Upcoming* |
 | **Practical 05** | Inheritance, Abstract Classes & Dynamic Method Dispatch (Polymorphism) | `lab5` | [View lab5](https://github.com/25cs057/25cs057_java_practicals/tree/lab5) | *Upcoming* |
 | **Practical 06** | Interfaces, Default Methods, Lambdas & Functional Interfaces | `lab6` | [View lab6](https://github.com/25cs057/25cs057_java_practicals/tree/lab6) | *Upcoming* |
