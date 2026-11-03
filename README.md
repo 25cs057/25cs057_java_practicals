@@ -34,8 +34,8 @@ Each practical is developed independently on its own dedicated Git branch, adher
 | **Practical 09** | Multithreading Basics, Race Conditions & Thread Synchronization | `lab9` | [View lab9](https://github.com/25cs057/25cs057_java_practicals/tree/lab9) | **Completed** |
 | **Practical 10** | Thread Pools (`ExecutorService`), Inter-thread Communication (`wait`/`notify`) | `lab10` | [View lab10](https://github.com/25cs057/25cs057_java_practicals/tree/lab10) | **Completed** |
 | **Practical 11** | Object Serialization, I/O Streams & NIO File Processing | `lab11` | [View lab11](https://github.com/25cs057/25cs057_java_practicals/tree/lab11) | **Completed** |
-| **Practical 12** | Java Collections Framework (`List`, `Set`, `Map`, `Comparator`) | `lab12` | [View lab12](https://github.com/25cs057/25cs057_java_practicals/tree/lab12) | *In Progress* |
-| **Practical 13** | Generic Classes, Bounded Type Parameters & Type Safety | `lab13` | [View lab13](https://github.com/25cs057/25cs057_java_practicals/tree/lab13) | *Upcoming* |
+| **Practical 12** | Java Collections Framework (`List`, `Set`, `Map`, `Comparator`) | `lab12` | [View lab12](https://github.com/25cs057/25cs057_java_practicals/tree/lab12) | **Completed** |
+| **Practical 13** | Generic Classes, Bounded Type Parameters & Type Safety | `lab13` | [View lab13](https://github.com/25cs057/25cs057_java_practicals/tree/lab13) | *In Progress* |
 | **Practical 14** | Module Integration, Layered Architecture & JUnit 5 Testing | `lab14` | [View lab14](https://github.com/25cs057/25cs057_java_practicals/tree/lab14) | *Upcoming* |
 
 ---
