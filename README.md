@@ -27,8 +27,8 @@ Each practical is developed independently on its own dedicated Git branch, adher
 | **Practical 02** | Class Design, Constructors, Encapsulation & Static Members | `lab2` | [View lab2](https://github.com/25cs057/25cs057_java_practicals/tree/lab2) | **Completed** |
 | **Practical 03** | Object Class Methods (`equals`, `hashCode`, `toString`) & Objects Array | `lab3` | [View lab3](https://github.com/25cs057/25cs057_java_practicals/tree/lab3) | **Completed** |
 | **Practical 04** | Strings, `StringBuilder`, Regex Pattern Matching & Text Parsing | `lab4` | [View lab4](https://github.com/25cs057/25cs057_java_practicals/tree/lab4) | **Completed** |
-| **Practical 05** | Inheritance, Abstract Classes & Dynamic Method Dispatch (Polymorphism) | `lab5` | [View lab5](https://github.com/25cs057/25cs057_java_practicals/tree/lab5) | *In Progress* |
-| **Practical 06** | Interfaces, Default Methods, Lambdas & Functional Interfaces | `lab6` | [View lab6](https://github.com/25cs057/25cs057_java_practicals/tree/lab6) | *Upcoming* |
+| **Practical 05** | Inheritance, Abstract Classes & Dynamic Method Dispatch (Polymorphism) | `lab5` | [View lab5](https://github.com/25cs057/25cs057_java_practicals/tree/lab5) | **Completed** |
+| **Practical 06** | Interfaces, Default Methods, Lambdas & Functional Interfaces | `lab6` | [View lab6](https://github.com/25cs057/25cs057_java_practicals/tree/lab6) | *In Progress* |
 | **Practical 07** | Standard & Custom Annotations, Reflection API | `lab7` | [View lab7](https://github.com/25cs057/25cs057_java_practicals/tree/lab7) | *Upcoming* |
 | **Practical 08** | Exception Handling, Custom Exceptions & Try-with-Resources | `lab8` | [View lab8](https://github.com/25cs057/25cs057_java_practicals/tree/lab8) | *Upcoming* |
 | **Practical 09** | Multithreading Basics, Race Conditions & Thread Synchronization | `lab9` | [View lab9](https://github.com/25cs057/25cs057_java_practicals/tree/lab9) | *Upcoming* |
